@@ -1,1 +1,2 @@
-Practical class of git
+Practical class of GIT
+I am going to push this local repo. to remote repo.
